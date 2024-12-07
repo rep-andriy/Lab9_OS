@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\vikto\OneDrive\Робочий стіл\Навчання\2 курс\3sem\ОС\Лаба9\NotiSys_lab9_os\server\server\Source.cpp(317,61): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  server.vcxproj -> C:\Users\vikto\OneDrive\Робочий стіл\Навчання\2 курс\3sem\ОС\Лаба9\NotiSys_lab9_os\server\x64\Debug\server.exe
